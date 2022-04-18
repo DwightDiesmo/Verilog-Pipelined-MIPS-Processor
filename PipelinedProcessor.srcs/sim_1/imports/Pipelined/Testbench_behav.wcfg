@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="Testbench_behav.wdb" id="1">
+         <top_modules>
+            <top_module name="Testbench" />
+            <top_module name="glbl" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+      <ZoomStartTime time="0fs"></ZoomStartTime>
+      <ZoomEndTime time="1000001fs"></ZoomEndTime>
+      <Cursor1Time time="1000000fs"></Cursor1Time>
+   </zoom_setting>
+   <column_width_setting>
+      <NameColumnWidth column_width="149"></NameColumnWidth>
+      <ValueColumnWidth column_width="146"></ValueColumnWidth>
+   </column_width_setting>
+   <WVObjectSize size="13" />
+   <wvobject fp_name="/Testbench/clk" type="logic">
+      <obj_property name="ElementShortName">clk</obj_property>
+      <obj_property name="ObjectShortName">clk</obj_property>
+   </wvobject>
+   <wvobject type="divider" fp_name="divider876">
+      <obj_property name="label">DM</obj_property>
+      <obj_property name="DisplayName">label</obj_property>
+      <obj_property name="BkColor">#800000</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Testbench/UUT/DataMemory/Memory[35]" type="array">
+      <obj_property name="ElementShortName">[35][31:0]</obj_property>
+      <obj_property name="ObjectShortName">[35][31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Testbench/UUT/DataMemory/Memory[34]" type="array">
+      <obj_property name="ElementShortName">[34][31:0]</obj_property>
+      <obj_property name="ObjectShortName">[34][31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Testbench/UUT/DataMemory/Memory[33]" type="array">
+      <obj_property name="ElementShortName">[33][31:0]</obj_property>
+      <obj_property name="ObjectShortName">[33][31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Testbench/UUT/DataMemory/Memory[32]" type="array">
+      <obj_property name="ElementShortName">[32][31:0]</obj_property>
+      <obj_property name="ObjectShortName">[32][31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Testbench/UUT/DataMemory/Memory[31]" type="array">
+      <obj_property name="ElementShortName">[31][31:0]</obj_property>
+      <obj_property name="ObjectShortName">[31][31:0]</obj_property>
+   </wvobject>
+   <wvobject type="divider" fp_name="divider875">
+      <obj_property name="label">RF</obj_property>
+      <obj_property name="DisplayName">label</obj_property>
+      <obj_property name="BkColor">#008080</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Testbench/UUT/RegisterFile/Registers[18]" type="array">
+      <obj_property name="ElementShortName">[18][31:0]</obj_property>
+      <obj_property name="ObjectShortName">[18][31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Testbench/UUT/RegisterFile/Registers[17]" type="array">
+      <obj_property name="ElementShortName">[17][31:0]</obj_property>
+      <obj_property name="ObjectShortName">[17][31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Testbench/UUT/RegisterFile/Registers[16]" type="array">
+      <obj_property name="ElementShortName">[16][31:0]</obj_property>
+      <obj_property name="ObjectShortName">[16][31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Testbench/UUT/RegisterFile/Registers[11]" type="array">
+      <obj_property name="ElementShortName">[11][31:0]</obj_property>
+      <obj_property name="ObjectShortName">[11][31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Testbench/UUT/RegisterFile/Registers[8]" type="array">
+      <obj_property name="ElementShortName">[8][31:0]</obj_property>
+      <obj_property name="ObjectShortName">[8][31:0]</obj_property>
+   </wvobject>
+</wave_config>
